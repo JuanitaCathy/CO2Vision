@@ -8,13 +8,12 @@ CO2Vision is a web application that visualizes and compares carbon dioxide (CO2)
 
 - **Interactive Visualizations:** Explore and analyze CO2 emissions data through interactive charts and graphs.
 - **Country Comparison:** Compare emissions between two countries to gain insights into their environmental impact.
-- **User Engagement:** Engage with quizzes and resources to enhance your knowledge about carbon emissions and environmental conservation.
+- **User Engagement:** Engage with resources to enhance your knowledge about carbon emissions and environmental conservation.
 
 ## Built With
 
 - [Taipy](https://github.com/Taipy-Taipy/taipy): A Python framework for building web applications.
 - [Pandas](https://pandas.pydata.org/): Data manipulation and analysis library.
-- [Requests](https://docs.python-requests.org/en/latest/): HTTP library for fetching data from external APIs.
 
 ## Getting Started
 
