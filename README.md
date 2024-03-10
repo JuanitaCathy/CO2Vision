@@ -20,7 +20,7 @@ CO2Vision is a web application that visualizes and compares carbon dioxide (CO2)
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the application using `python main.py`.
-4. Access the application at [http://localhost:8000](http://localhost:8000) in your web browser.
+4. Access the application at [http://localhost:8000](http://localhost:5000) in your web browser.
 
 ## Contribution Guidelines
 
